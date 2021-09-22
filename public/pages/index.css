@@ -54,3 +54,5 @@
 @import url('../blocks/section/_narrow/section_narrow.css');
 @import url('../blocks/section-title/_size/section-title_size_small.css');
 @import url('../blocks/section-title/_size/section-title_size_medium.css');
+@import url('../blocks/popup/popup.css');
+@import url('../blocks/popup/_is-opened/popup_is-opened.css');

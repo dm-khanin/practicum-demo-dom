@@ -1,0 +1,24 @@
+.header__about-project {
+  font-size: 24px;
+  line-height: 28px;
+  display: block;
+  cursor: pointer;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  margin-right: 70px;
+  text-decoration: underline;
+  user-select: none;
+}
+
+.header__about-project:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 640px){
+  .header__about-project {
+    font-size: 18px;
+  }
+}
